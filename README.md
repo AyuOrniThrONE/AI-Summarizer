@@ -113,5 +113,5 @@ This project is licensed under the **[MIT License](LICENSE)**.
 ---
 
 ## Contact
-**Author**: AyuOrniThrONE  
+**Author**: Ayush Prakash Thaware
 **GitHub**: [@AyuOrniThrONE](https://github.com/AyuOrniThrONE)
